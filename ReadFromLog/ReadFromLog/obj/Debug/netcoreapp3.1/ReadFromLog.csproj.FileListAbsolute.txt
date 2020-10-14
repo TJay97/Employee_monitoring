@@ -1,0 +1,41 @@
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.exe
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.deps.json
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.runtimeconfig.json
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.runtimeconfig.dev.json
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.dll
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.pdb
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.csprojAssemblyReference.cache
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.AssemblyInfoInputs.cache
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.AssemblyInfo.cs
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.dll
+C:\Users\sasindu\Desktop\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.pdb
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.exe
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.deps.json
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.runtimeconfig.json
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.runtimeconfig.dev.json
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.pdb
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.csprojAssemblyReference.cache
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.AssemblyInfoInputs.cache
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.AssemblyInfo.cs
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.pdb
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.exe
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.deps.json
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.runtimeconfig.json
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.runtimeconfig.dev.json
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\ReadFromLog.pdb
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.AssemblyInfoInputs.cache
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.AssemblyInfo.cs
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.pdb
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.csproj.CopyComplete
+D:\Research Projects\567 Video Employee Detection\Project 05\FINAL CODE\FaceRecognition_DressDetection_Final\ReadFromLog\ReadFromLog\obj\Debug\netcoreapp3.1\ReadFromLog.csprojAssemblyReference.cache

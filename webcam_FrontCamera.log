@@ -1,0 +1,294 @@
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:45:23.622085
+INFO:root:Timestamp: 0.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:45:58.789975
+INFO:root:Timestamp: 333.3333333333333
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:46:32.984944
+INFO:root:Timestamp: 666.6666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:47:09.794934
+INFO:root:Timestamp: 1000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:47:51.629284
+INFO:root:Timestamp: 1333.3333333333333
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 20:48:32.122170
+INFO:root:Timestamp: 1666.6666666666665
+INFO:root:Names:['pamudi']
+INFO:root:Dresses:['CompanyT']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 20:49:10.527039
+INFO:root:Timestamp: 2000.0
+INFO:root:Names:['pamudi']
+INFO:root:Dresses:['CompanyT']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 20:49:48.794962
+INFO:root:Timestamp: 2333.333333333333
+INFO:root:Names:['pamudi']
+INFO:root:Dresses:['CompanyT']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 20:50:28.253965
+INFO:root:Timestamp: 2666.6666666666665
+INFO:root:Names:['pamudi']
+INFO:root:Dresses:['CompanyT']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 20:51:06.312887
+INFO:root:Timestamp: 3000.0
+INFO:root:Names:['pamudi']
+INFO:root:Dresses:['CompanyT']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 20:51:45.090850
+INFO:root:Timestamp: 3333.333333333333
+INFO:root:Names:['pamudi']
+INFO:root:Dresses:['CompanyT']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:52:20.387829
+INFO:root:Timestamp: 3666.6666666666665
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:52:54.578797
+INFO:root:Timestamp: 4000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:53:30.279765
+INFO:root:Timestamp: 4333.333333333333
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:54:05.558727
+INFO:root:Timestamp: 4666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:54:42.666693
+INFO:root:Timestamp: 5000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:55:18.798663
+INFO:root:Timestamp: 5333.333333333333
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:55:54.426633
+INFO:root:Timestamp: 5666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:56:28.996680
+INFO:root:Timestamp: 6000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:57:03.865650
+INFO:root:Timestamp: 6333.333333333333
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:57:42.841684
+INFO:root:Timestamp: 6666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:58:20.233147
+INFO:root:Timestamp: 7000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:58:55.216234
+INFO:root:Timestamp: 7333.333333333333
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 20:59:29.584281
+INFO:root:Timestamp: 7666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:00:04.748191
+INFO:root:Timestamp: 8000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:00:40.245189
+INFO:root:Timestamp: 8333.333333333332
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:01:18.886174
+INFO:root:Timestamp: 8666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:01:54.113152
+INFO:root:Timestamp: 9000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:03:42.433041
+INFO:root:Timestamp: 9333.333333333332
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:04:20.252014
+INFO:root:Timestamp: 9666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:04:58.661988
+INFO:root:Timestamp: 10000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:05:35.297007
+INFO:root:Timestamp: 10333.333333333332
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:06:15.194799
+INFO:root:Timestamp: 10666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:07:14.588326
+INFO:root:Timestamp: 11000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:08:24.303283
+INFO:root:Timestamp: 11333.333333333332
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:09:15.372247
+INFO:root:Timestamp: 11666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:09:56.879221
+INFO:root:Timestamp: 12000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:10:36.891269
+INFO:root:Timestamp: 12333.333333333332
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:11:16.879447
+INFO:root:Timestamp: 12666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:11:56.776381
+INFO:root:Timestamp: 13000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 21:12:34.971426
+INFO:root:Timestamp: 13333.333333333332
+INFO:root:Names:['haritha']
+INFO:root:Dresses:['Formal']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:13:06.831285
+INFO:root:Timestamp: 13666.666666666666
+INFO:root:Names:['haritha']
+INFO:root:Dresses:['Formal']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 21:13:42.066258
+INFO:root:Timestamp: 14000.0
+INFO:root:Names:['haritha']
+INFO:root:Dresses:['Formal']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 21:14:16.355228
+INFO:root:Timestamp: 14333.333333333332
+INFO:root:Names:['haritha']
+INFO:root:Dresses:['Formal']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 21:14:51.771848
+INFO:root:Timestamp: 14666.666666666666
+INFO:root:Names:['haritha']
+INFO:root:Dresses:['Formal']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 21:15:26.295259
+INFO:root:Timestamp: 15000.0
+INFO:root:Names:['haritha']
+INFO:root:Dresses:['Formal']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:1
+INFO:root:GetTime:2020-09-22 21:16:01.226284
+INFO:root:Timestamp: 15333.333333333332
+INFO:root:Names:['haritha']
+INFO:root:Dresses:['Formal']
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:16:33.079265
+INFO:root:Timestamp: 15666.666666666666
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
+INFO:root:Faces:0
+INFO:root:GetTime:2020-09-22 21:17:06.220121
+INFO:root:Timestamp: 16000.0
+INFO:root:Names:[]
+INFO:root:Dresses:[]
+INFO:root:--------------------------------------------EndLine
